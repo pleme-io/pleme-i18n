@@ -1,6 +1,6 @@
 {
   "name": "@pleme-io/i18n",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Internationalization wrapper for react-i18next with Brazilian Portuguese support",
   "type": "module",
   "main": "./dist/index.js",
