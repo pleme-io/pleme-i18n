@@ -1,5 +1,5 @@
 {
-  "name": "@pleme/i18n",
+  "name": "@pleme-io/i18n",
   "version": "1.0.0",
   "description": "Internationalization wrapper for react-i18next with Brazilian Portuguese support",
   "type": "module",
